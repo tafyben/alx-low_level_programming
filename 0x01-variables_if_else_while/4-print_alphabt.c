@@ -4,7 +4,7 @@
  * Description: Prints out alphabet in lower case then new line
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 	char c;
 
