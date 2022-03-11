@@ -1,22 +1,22 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: Print alhabets in lowercase and uppercase followed by a new line
+ * Description: Print alhabet lowercase and uppercase followed by a new line
  * Return:0
  */
 int main(void)
 {
-	char c = 'a';
+	char c, d;
 
-	while (c <= 'z')
+	for (c = 'a'; c <= 'z'; c)
 	{
-		if (c != 'e' && c != 'q')
-		{
-			putchar(c);
-		}
-		c++;
+		putchar(c);
+	}
+	for (d = 'A'; d <= 'Z'; d++)
+	{
+		puthcar(d);
 	}
 
-	putchar('\n');
+	putchar(10);
 	return (0);
 }
