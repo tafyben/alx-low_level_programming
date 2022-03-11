@@ -1,4 +1,4 @@
-#inlcude <stdio.h>
+#include <stdio.h>
 /**
  * main - main function
  * Description: Prints out alphabet in lower case then new line
@@ -6,9 +6,9 @@
  */
 int main (void)
 {
-	car c;
+	char c;
 
-	for (c = 'a'; c<= 'z'; c++)
+	for (c = 'a'; c <= 'z'; c++)
 	{
 		if (c == 'e' || c == 'q')
 			continue;
