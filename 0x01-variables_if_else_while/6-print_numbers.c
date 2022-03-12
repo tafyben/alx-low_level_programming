@@ -4,7 +4,7 @@
  * Description: Prints numbers followed by a new line
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 	int num;
 
@@ -13,5 +13,5 @@ int main (void)
 		putchar(num);
 	}
 	putchar(10);
-	return(0);
+	return (0);
 }
