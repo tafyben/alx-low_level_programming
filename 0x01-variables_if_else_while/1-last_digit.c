@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- * main main functuion
- * Description: assign a random number each time executed to the value n
+ * main - Main function
+ * Description: Get a random number and confirm its last digitit, usign 5
  * Return: 0
  */
 int main(void)
