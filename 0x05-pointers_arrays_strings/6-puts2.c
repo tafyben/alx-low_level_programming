@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * puts2 - print string followed by newline
- * @str: pointer to the string to print
+ * @str: pointer to the string to print.
  * Return: void
 */
 
