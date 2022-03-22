@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts_half - printing second half of string
+ * puts_half - printing second hlf of string
  * @str: char array string type
  * Description: If odd number of chars, print (length - 1) / 2
  */
