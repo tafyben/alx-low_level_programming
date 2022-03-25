@@ -1,19 +1,15 @@
 #include "main.h"
 /**
- * _strcmp - compares two strings function
+ * _strcmp - fucntion compares two strings function
  * @s1: string 1
  * @s2: string 2
+ * @dest
  * Return: 0 if matching, and ns1 - ns2 if not matching
 */
 
 int _strcmp(char *s1, char *s2)
 {
 int i;
-
-/**
- * We have reached the end of S1 OR we have reached the end of S2
- * 
-*/
 
 for (i = 0; s1[i] != '\0' || s2[i] != '\0'; i++)
 {
