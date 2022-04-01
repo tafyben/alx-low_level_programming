@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\YoursTrully\alx-low_level_programming\0x07-pointers_arrays_strings Select CMakeLists.txt
