@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 /**
- * 
  * @s1: string
  * @s2: string
  * Return: Always 0.
